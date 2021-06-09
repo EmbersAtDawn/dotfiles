@@ -2,3 +2,4 @@
 
 Currently includes:
 - .zshrc
+- .gitconfig
