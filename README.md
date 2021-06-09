@@ -1,4 +1,4 @@
-# EmbersAtDawn Dotfiles
+# Dotfiles
 
 Currently includes:
 - .zshrc
