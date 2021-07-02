@@ -15,7 +15,7 @@ Install dependencies:
 ```shell
 $ brew install zsh-syntax-highlighting
 $ brew install zsh-autosuggestions
-$ brew coreutils
+$ brew install coreutils
 ```
 
 Change `ls` aliased commands to use `gls`:
