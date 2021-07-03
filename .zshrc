@@ -17,8 +17,8 @@ compinit
 _comp_options+=(globdots)		# Include hidden files.
 
 # Load aliases and shortcuts if existent. (from a different file)
-[ -f "$HOME/.config/shortcutrc" ] && source "$HOME/.config/shortcutrc"
-[ -f "$HOME/.config/aliasrc" ] && source "$HOME/.config/aliasrc"
+[ -f "$HOME/.shortcuts" ] && source "$HOME/.shortcuts"
+[ -f "$HOME/.aliases" ] && source "$HOME/.aliases"
 
 # Aliases
 alias cp='cp -iv'
