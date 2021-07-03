@@ -33,5 +33,5 @@ source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 Reload the `.zshrc` configuration:
 ```shell
-$ source .zshrc
+$ source ~/.zshrc
 ```
